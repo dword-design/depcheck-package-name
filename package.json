@@ -1,8 +1,8 @@
 {
-  "name": "module-name",
+  "name": "depcheck-package-name",
   "version": "1.0.0",
-  "description": "",
-  "repository": "dword-design/module-name",
+  "description": "Package that is used by depcheck-detector-package-name",
+  "repository": "dword-design/depcheck-package-name",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
   "main": "dist/index.js",
@@ -10,7 +10,10 @@
     "dist"
   ],
   "scripts": {
-    "depgraph": "base depgraph",
+    "clean": "base clean",
+    "commit": "base commit",
+    "dev": "base dev",
+    "lint": "base lint",
     "prepare": "base prepare",
     "prepublishOnly": "base prepublishOnly",
     "test": "base test"
@@ -19,7 +22,9 @@
     "resolve-tagged-template": "^1.0.0"
   },
   "devDependencies": {
-    "@dword-design/base": "^5.0.0",
-    "expect": "^24.9.0"
+    "@dword-design/base": "^6.28.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
