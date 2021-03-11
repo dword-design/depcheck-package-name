@@ -1,7 +1,7 @@
 {
   "name": "depcheck-package-name",
   "version": "1.0.1",
-  "description": "Package that is used by depcheck-detector-package-name",
+  "description": "Package that is used by depcheck-detector-package-name.",
   "repository": "dword-design/depcheck-package-name",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
