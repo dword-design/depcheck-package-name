@@ -34,7 +34,7 @@
 <!-- /BADGES -->
 
 <!-- DESCRIPTION/ -->
-Package that is used by depcheck-detector-package-name
+Package that is used by depcheck-detector-package-name.
 <!-- /DESCRIPTION -->
 
 <!-- INSTALL/ -->
