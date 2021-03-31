@@ -1,6 +1,6 @@
 {
   "name": "depcheck-package-name",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Package that is used by depcheck-detector-package-name.",
   "repository": "dword-design/depcheck-package-name",
   "funding": "https://www.buymeacoffee.com/dword",

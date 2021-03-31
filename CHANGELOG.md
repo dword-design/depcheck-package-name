@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/dword-design/depcheck-package-name/compare/v1.0.4...v1.0.5) (2021-03-31)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#12](https://github.com/dword-design/depcheck-package-name/issues/12)) ([f9fbeea](https://github.com/dword-design/depcheck-package-name/commit/f9fbeeac140957444517a049ba38de48f5ca97da))
+
 ## [1.0.4](https://github.com/dword-design/depcheck-package-name/compare/v1.0.3...v1.0.4) (2021-03-22)
 
 
