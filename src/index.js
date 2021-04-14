@@ -1,3 +1,3 @@
-import resolveTaggedTemplate from 'resolve-tagged-template'
+import taggedTemplateNoop from 'tagged-template-noop'
 
-export default resolveTaggedTemplate
+export default taggedTemplateNoop
