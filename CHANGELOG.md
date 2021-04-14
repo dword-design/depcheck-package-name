@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/dword-design/depcheck-package-name/compare/v1.0.6...v1.0.7) (2021-04-14)
+
+
+### Bug Fixes
+
+* use tagged-template-noop ([1d62713](https://github.com/dword-design/depcheck-package-name/commit/1d62713e3c07fb323412cf2bbcb60b786991a466))
+
 ## [1.0.6](https://github.com/dword-design/depcheck-package-name/compare/v1.0.5...v1.0.6) (2021-04-12)
 
 
