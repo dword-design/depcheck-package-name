@@ -1,6 +1,6 @@
 {
   "name": "depcheck-package-name",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Package that is used by depcheck-detector-package-name.",
   "repository": "dword-design/depcheck-package-name",
   "funding": "https://github.com/sponsors/dword-design",
