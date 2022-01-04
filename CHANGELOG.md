@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/dword-design/depcheck-package-name/compare/v2.0.4...v2.0.5) (2022-01-04)
+
+
+### Bug Fixes
+
+* update config files ([e0e189b](https://github.com/dword-design/depcheck-package-name/commit/e0e189b14c1a8aac55040ce7a1e3d56db14d9c80))
+
 ## [2.0.4](https://github.com/dword-design/depcheck-package-name/compare/v2.0.3...v2.0.4) (2021-07-20)
 
 
