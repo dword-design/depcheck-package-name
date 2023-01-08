@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/depcheck-package-name/compare/v2.0.6...v3.0.0) (2023-01-08)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#68](https://github.com/dword-design/depcheck-package-name/issues/68)) ([8c5b2ec](https://github.com/dword-design/depcheck-package-name/commit/8c5b2ec0d4911b07d39de731bc6fd2972adff1fa))
+
+
+### BREAKING CHANGES
+
+* drop node 12 support, move to esm
+
 ## [2.0.6](https://github.com/dword-design/depcheck-package-name/compare/v2.0.5...v2.0.6) (2022-01-12)
 
 
