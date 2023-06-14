@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/dword-design/depcheck-package-name/compare/v3.0.0...v3.0.1) (2023-06-14)
+
+
+### Bug Fixes
+
+* trigger release ([f1d0fbf](https://github.com/dword-design/depcheck-package-name/commit/f1d0fbf59d62906e28d63a91b9096f7c680fea23))
+
 # [3.0.0](https://github.com/dword-design/depcheck-package-name/compare/v2.0.6...v3.0.0) (2023-01-08)
 
 
