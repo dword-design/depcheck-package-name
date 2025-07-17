@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/dword-design/depcheck-package-name/compare/v3.0.1...v4.0.0) (2025-07-17)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#80](https://github.com/dword-design/depcheck-package-name/issues/80)) ([383c1cd](https://github.com/dword-design/depcheck-package-name/commit/383c1cd09bb1cac07e2b635767a3f08b2a54c6a3))
+
+
+### BREAKING CHANGES
+
+* node.js >= 20
+
 ## [3.0.1](https://github.com/dword-design/depcheck-package-name/compare/v3.0.0...v3.0.1) (2023-06-14)
 
 
