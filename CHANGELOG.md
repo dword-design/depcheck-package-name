@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/dword-design/depcheck-package-name/compare/v4.0.0...v4.0.1) (2025-08-02)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v15 ([#89](https://github.com/dword-design/depcheck-package-name/issues/89)) ([a3db9b7](https://github.com/dword-design/depcheck-package-name/commit/a3db9b7d54522cb718c77e190b9c47f33984d99b))
+
 # [4.0.0](https://github.com/dword-design/depcheck-package-name/compare/v3.0.1...v4.0.0) (2025-07-17)
 
 
